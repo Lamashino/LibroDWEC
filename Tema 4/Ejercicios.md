@@ -1,3 +1,7 @@
+**4.1.6.** Crea un input en el que se introduzca un nombre de usuario y que se verifique en tiempo real (usa el evento `oninput`) que posee 6 letras y 2 números:
+
+![alt text](ejercicio4.1.6.gif)
+
 **4.3.1.** Crear un reloj digital que muestre la hora actual y cambie de color cada segundo:
 
 ![alt text](relojColor.gif)
