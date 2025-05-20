@@ -84,7 +84,3 @@ export function sayHello() {
 [Sácale chispas a Chrome Developer Tools (DevTools)](https://www.youtube.com/embed/xBXYIs4-xJE)
 
 [Chrome Developer Tools a fondo](https://www.youtube.com/embed/kHFZOBxbFDM)
-
-<iframe width="768" height="462" src="https://www.youtube.com/embed/xBXYIs4-xJE" title="Sácale chispas a Chrome Developer Tools (DevTools)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="768" height="462" src="https://www.youtube.com/embed/kHFZOBxbFDM" title="⚡🌍 Chrome Developer Tools a fondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
