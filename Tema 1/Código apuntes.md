@@ -73,18 +73,17 @@ export function sayHello() {
 }
 ```
 
-## 1.7.2. Vídeo sobre cómo usar las herramientas de desarrollo de Chrome
+## 1.7.2. Vídeos uso herramientas de desarrollo de Chrome
+
 [En este vídeo se explica cómo trabajar con las herramientas de desarrllo de Chrome](https://www.youtube.com/embed/fxfeGzQDcS4)
 
-## 1.7.3. La consola Javascript en Chrome
+[En este vídeo se explica cómo acceder a la consola de Javascript en Chrome](https://www.youtube.com/embed/hyo1JxdqDMg)
 
-En este vídeo se explica cómo acceder a la consola de Javascript en Chrome:
+[Chrome Developer Tools - Tips para Desarrollo Web y Productividad](https://www.youtube.com/embed/BXN8oO4r3Qc)
 
-<iframe width="810" height="485" src="https://www.youtube.com/embed/hyo1JxdqDMg" title="Consola JavaScript en Chrome DevTools" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Sácale chispas a Chrome Developer Tools (DevTools)](https://www.youtube.com/embed/xBXYIs4-xJE)
 
-## 1.7.4. Ampliación sobre el uso de las herramientas de desarrollo de Chrome
-
-<iframe width="768" height="462" src="https://www.youtube.com/embed/BXN8oO4r3Qc" title="Chrome Developer Tools - Tips para Desarrollo Web y Productividad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Chrome Developer Tools a fondo](https://www.youtube.com/embed/kHFZOBxbFDM)
 
 <iframe width="768" height="462" src="https://www.youtube.com/embed/xBXYIs4-xJE" title="Sácale chispas a Chrome Developer Tools (DevTools)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
