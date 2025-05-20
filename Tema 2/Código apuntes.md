@@ -409,7 +409,7 @@ let colores = texto.split(",");  // ["Rojo", "Verde", "Azul"]
 
 ## 2. Acceder a los elementos con `getElementById` o `querySelector` 
 
-```javascript
+```html
 <!DOCTYPE html>
 <html lang="es">
 <body>
