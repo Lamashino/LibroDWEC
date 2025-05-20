@@ -16,33 +16,6 @@ console.log(nombre);  // Sentencia de ejecución
 }
 ```
 
-## 2.2.2. Bloques en `if`, `for`, `while` y funciones
-
-### Bloques en condicionales (`if`)
-```javascript
-if (true) {
-  console.log("Este código se ejecuta");
-} else {
-  console.log("Este no");
-}
-```
-
-### Bloques en bucles (`for`, `while`)
-```javascript
-for (let i = 0; i < 3; i++) {
-  console.log("Iteración:", i);
-}
-```
-
-### Bloques en funciones
-```javascript
-function saludar() {
-  console.log("Hola desde una función!");
-}
-saludar();
-```
-
-
 # 2.4. Variables y asignación 
 
 ## 2.4.1. Variables
@@ -392,22 +365,6 @@ let colores = texto.split(",");  // ["Rojo", "Verde", "Azul"]
 ```
 
 ## 2.13.5. Procedimiento para crear páginas web sencillas y modificarlas con Javascript
-
-## 1. Diseñar la interfaz en HTML  
-
-```html
-<!DOCTYPE html>
-<html lang="es">
-<body>
-    <h1 id="titulo">Contador: 0</h1>
-    <button id="boton">Incrementar</button>
-
-    <script src="script.js"></script> <!-- Enlazamos el archivo JS -->
-</body>
-</html>
-```
-
-## 2. Acceder a los elementos con `getElementById` o `querySelector` 
 
 ```html
 <!DOCTYPE html>
