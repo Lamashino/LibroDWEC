@@ -74,7 +74,7 @@ export function sayHello() {
 ```
 
 ## 1.7.2. Vídeo sobre cómo usar las herramientas de desarrollo de Chrome
-[En este vídeo se explica cómo trabajar con las herramientas de desarrllo de Chrome]([www.github.com](https://www.youtube.com/embed/fxfeGzQDcS4))
+[En este vídeo se explica cómo trabajar con las herramientas de desarrllo de Chrome](https://www.youtube.com/embed/fxfeGzQDcS4)
 
 ## 1.7.3. La consola Javascript en Chrome
 
