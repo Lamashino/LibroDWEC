@@ -1,6 +1,3 @@
-
-## 2.2. Ejercicios de ámbitos
-
 **2.2.1. Predecir el resultado**. Analiza el siguiente código y **trata de adivinar** qué se imprimirá en la consola sin ejecutarlo. Rellena la tabla con las salidas que se producen:
 
 ```javascript
