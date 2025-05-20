@@ -356,26 +356,6 @@ console.log(persona); // Resultado: {nombre: "Juan", edad: 30}
 ## 3.5.7. Herencia en JavaScript  
 
 ```javascript
-class Animal {
-  constructor(nombre) {
-    this.nombre = nombre;
-  }
-  hacerSonido() {
-    console.log("Sonido genérico");
-  }
-}
-
-class Perro extends Animal {
-  hacerSonido() {
-    console.log("Guau guau");
-  }
-}
-
-const miPerro = new Perro("Chip");
-miPerro.hacerSonido(); // "Guau guau"
-```
-
-```javascript
 
 class Persona {
     constructor(nombre, edad) {
@@ -404,10 +384,7 @@ pedro.saludar(); // Resultado: Hola, soy Pedro y estudio Física
 
 ## 3.5.8. JSON (JavaScript Object Notation) 
 
-
-### Sintaxis de JSON  
-
-###  Ejemplo completo de JSON:
+###  Ejemplo completo de JSON
 ```javascript
 {
   "cadena": "Hola, este es un ejemplo",
@@ -511,27 +488,6 @@ fecha.setMinutes(45);
 console.log(fecha);
 ```
 
-## 3.6.4. Operaciones con Fechas
-
-### Sumar y Restar Días
-```javascript
-let fecha = new Date();
-fecha.setDate(fecha.getDate() + 7); // Sumar 7 días
-console.log(fecha);
-```
-
-### Calcular Diferencia entre Fechas
-```javascript
-let inicio = new Date("2025-03-01");
-let fin = new Date("2025-03-11");
-
-let diferencia = fin.getTime() - inicio.getTime(); // Diferencia en milisegundos
-let dias = diferencia / (1000 * 60 * 60 * 24); // Convertir a días
-
-console.log(`Diferencia: ${dias} días`); // "Diferencia: 10 días"
-```
-
-
 # 3.7. Gestión del tiempo
 
 ## 3.7.5. Ejemplo completo: cuenta atrás
@@ -591,15 +547,9 @@ if (usuario) {
 ```
 ### Eliminar datos
 
-- **Borrar un dato**
 ```javascript
 localStorage.removeItem("usuario");
 ```
-- **Borrar todo el almacenamiento**
-```javascript
-localStorage.clear();
-```
-
 
 ## 3.8.3. SessionStorage en JavaScript 
 
@@ -607,7 +557,6 @@ localStorage.clear();
 let usuario = "Juan Pérez";
 sessionStorage.setItem("usuario", encodeURIComponent(usuario));
 ```
-- Esto almacena `"Juan Pérez"` de forma segura como `"Juan%20P%C3%A9rez"`.
 
 ### Leer y descodificar datos
 ```javascript
@@ -620,8 +569,6 @@ if (usuario) {
 
 
 ## 3.9. Generación de texto y elementos HTML desde código.
-
-#### Ejemplo completo
 
 ```html
 <!DOCTYPE html>
@@ -643,12 +590,10 @@ if (usuario) {
 </script>
 </body>
 </html>
-
 ```
 
 ### 3.9.2. Generación de Elementos HTML Dinámicos
 
-#### Ejemplo: Crear una Lista
 ```javascript
 // Crear la lista
 const lista = document.createElement("ul");
