@@ -74,10 +74,7 @@ export function sayHello() {
 ```
 
 ## 1.7.2. Vídeo sobre cómo usar las herramientas de desarrollo de Chrome
-
-En este vídeo se explica cómo trabajar con las herramientas de desarrllo de Chrome:
-
-<iframe width="810" height="485" src="https://www.youtube.com/embed/fxfeGzQDcS4" title="INTRODUCCIÓN A DEVTOOLS DE CHROME en Español" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[En este vídeo se explica cómo trabajar con las herramientas de desarrllo de Chrome]([www.github.com](https://www.youtube.com/embed/fxfeGzQDcS4))
 
 ## 1.7.3. La consola Javascript en Chrome
 
