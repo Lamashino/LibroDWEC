@@ -1,3 +1,12 @@
+**4.3.1.** Crear un reloj digital que muestre la hora actual y cambie de color cada segundo:
+
+![alt text](relojColor.gif)
+
+**4.3.2.** Crea una página web donde aparezca un botón que, al ser presionado, inicie un temporizador. Este temporizador hará que un círculo en la pantalla se mueva de izquierda a derecha y cambie de color cada segundo. Si el usuario hace clic en el círculo, el temporizador se detiene y se muestra un mensaje.
+
+![alt text](moverCirculo.gif)
+
+
 **4.3.3.** Crea una página web que simule el funcionamiento de un semáforo. El semáforo tiene tres luces: roja, amarilla y verde. Cada luz se ilumina durante un periodo de tiempo específico (por ejemplo, 3 segundos para rojo, 1 segundo para amarillo y 3 segundos para verde). El semáforo comienza automáticamente al cargar la página, pero debe haber un botón para pausar y otro para reiniciar el ciclo. Se incluye un código HTML con los estilos que puedes usar de referencia.
 
 ![alt text](semaforo.gif)
