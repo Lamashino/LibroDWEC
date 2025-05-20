@@ -1,4 +1,5 @@
 **4.3.3.** Crea una página web que simule el funcionamiento de un semáforo. El semáforo tiene tres luces: roja, amarilla y verde. Cada luz se ilumina durante un periodo de tiempo específico (por ejemplo, 3 segundos para rojo, 1 segundo para amarillo y 3 segundos para verde). El semáforo comienza automáticamente al cargar la página, pero debe haber un botón para pausar y otro para reiniciar el ciclo. Se incluye un código HTML con los estilos que puedes usar de referencia.
+
 ![alt text](semaforo.gif)
 
 ```html
@@ -91,7 +92,8 @@
 
 
 **4.3.4.** Se pide implementar el juego del alien. Busca dos imágenes que representen un **alien** y un **alienMuerto**. Construye un juego en el que vaya cayendo un alien por la pantalla. Al hacer clic sobre él, se cambia su imagen a alienMuerto y se suma un punto. La velocidad aumenta conforme más aliens se matan. Se pierde cuando algún alien llega a la parte inferior de la pantalla. Observa el comportamiento en la animación que se ofrece.
-![alt text](images/juegoAlien.gif)
+
+![alt text](juegoAlien.gif)
 
 **Pasos recomendados**:
 1. Crear alien en posición aleatoria.
